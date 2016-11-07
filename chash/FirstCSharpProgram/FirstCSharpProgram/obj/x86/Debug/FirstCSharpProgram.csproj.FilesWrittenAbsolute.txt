@@ -1,0 +1,10 @@
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 2 Your First C# Program/1 Your First C# Program/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 2 Your First C# Program/1 Your First C# Program/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe.mdb
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 2 Your First C# Program/1 Your First C# Program/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 2 Your First C# Program/1 Your First C# Program/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 2 Your First C# Program/1 Your First C# Program/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe.mdb
+/home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe.mdb
+/home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe
+/home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe
+/home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe.mdb
