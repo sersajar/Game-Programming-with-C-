@@ -1,0 +1,10 @@
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/4 Real Number Data Types/FloatingPointNumbers/FloatingPointNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/4 Real Number Data Types/FloatingPointNumbers/FloatingPointNumbers/bin/Debug/FloatingPointNumbers.exe.mdb
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/4 Real Number Data Types/FloatingPointNumbers/FloatingPointNumbers/bin/Debug/FloatingPointNumbers.exe
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/4 Real Number Data Types/FloatingPointNumbers/FloatingPointNumbers/obj/x86/Debug/FloatingPointNumbers.exe
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/4 Real Number Data Types/FloatingPointNumbers/FloatingPointNumbers/obj/x86/Debug/FloatingPointNumbers.exe.mdb
+/home/sscorpio/Work/real-code/chash/FloatingPointNumbers/FloatingPointNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sscorpio/Work/real-code/chash/FloatingPointNumbers/FloatingPointNumbers/bin/Debug/FloatingPointNumbers.exe.mdb
+/home/sscorpio/Work/real-code/chash/FloatingPointNumbers/FloatingPointNumbers/bin/Debug/FloatingPointNumbers.exe
+/home/sscorpio/Work/real-code/chash/FloatingPointNumbers/FloatingPointNumbers/obj/x86/Debug/FloatingPointNumbers.exe
+/home/sscorpio/Work/real-code/chash/FloatingPointNumbers/FloatingPointNumbers/obj/x86/Debug/FloatingPointNumbers.exe.mdb

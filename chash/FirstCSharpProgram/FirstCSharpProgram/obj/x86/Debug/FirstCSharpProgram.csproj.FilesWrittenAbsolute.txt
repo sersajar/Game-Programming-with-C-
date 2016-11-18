@@ -8,3 +8,8 @@
 /home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe
 /home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe
 /home/sscorpion/Work/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe.mdb
+/home/sscorpio/Work/real-code/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sscorpio/Work/real-code/chash/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe.mdb
+/home/sscorpio/Work/real-code/chash/FirstCSharpProgram/FirstCSharpProgram/bin/Debug/FirstCSharpProgram.exe
+/home/sscorpio/Work/real-code/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe
+/home/sscorpio/Work/real-code/chash/FirstCSharpProgram/FirstCSharpProgram/obj/x86/Debug/FirstCSharpProgram.exe.mdb

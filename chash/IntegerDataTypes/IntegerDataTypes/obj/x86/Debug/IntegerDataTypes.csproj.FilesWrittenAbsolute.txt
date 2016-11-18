@@ -1,0 +1,5 @@
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/3 Integer Data Types/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/3 Integer Data Types/IntegerDataTypes/IntegerDataTypes/bin/Debug/IntegerDataTypes.exe.mdb
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/3 Integer Data Types/IntegerDataTypes/IntegerDataTypes/bin/Debug/IntegerDataTypes.exe
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/3 Integer Data Types/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/IntegerDataTypes.exe
+/home/tim/Documents/Coursera On Demand MOOC/Lectures/Module 3 Data Types Variables and Constants/3 Integer Data Types/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/IntegerDataTypes.exe.mdb

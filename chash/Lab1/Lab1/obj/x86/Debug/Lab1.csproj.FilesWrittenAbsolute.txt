@@ -1,5 +1,0 @@
-/home/sscorpion/Work/chash/Lab1/Lab1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/sscorpion/Work/chash/Lab1/Lab1/bin/Debug/Lab1.exe.mdb
-/home/sscorpion/Work/chash/Lab1/Lab1/bin/Debug/Lab1.exe
-/home/sscorpion/Work/chash/Lab1/Lab1/obj/x86/Debug/Lab1.exe
-/home/sscorpion/Work/chash/Lab1/Lab1/obj/x86/Debug/Lab1.exe.mdb

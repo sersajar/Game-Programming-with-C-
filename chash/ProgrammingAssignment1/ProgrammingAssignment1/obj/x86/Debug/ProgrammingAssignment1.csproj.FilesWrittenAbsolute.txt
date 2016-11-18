@@ -1,0 +1,6 @@
+/home/sscorpio/Work/real-code/chash/ProgrammingAssignment1/ProgrammingAssignment1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sscorpio/Work/real-code/chash/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/ProgrammingAssignment1.exe.mdb
+/home/sscorpio/Work/real-code/chash/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/ProgrammingAssignment1.exe
+/home/sscorpio/Work/real-code/chash/ProgrammingAssignment1/ProgrammingAssignment1/obj/x86/Debug/ProgrammingAssignment1.exe
+/home/sscorpio/Work/real-code/chash/ProgrammingAssignment1/ProgrammingAssignment1/obj/x86/Debug/ProgrammingAssignment1.exe.mdb
+/home/sscorpio/Work/real-code/chash/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/DecimalMath.DecimalEx.dll
